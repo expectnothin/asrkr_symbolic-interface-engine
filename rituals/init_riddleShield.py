@@ -1,5 +1,9 @@
 # rituals/init_riddleShield.py
 
+from engine.init_registry import log_symbolic_entry
+
+log_symbolic_entry("ASRKR", "init_riddleShield", "Bootstraps symbolic protection layer")
+
 """
 Trigger: init.riddleShield()
 
