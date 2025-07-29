@@ -39,4 +39,10 @@ This project includes:
 - 🗂️ Reboot-ready vault management
 
 ## 📁 Project Structure
+├── docs/        # Documentation, principles, technical blueprints
+├── engine/      # Core code for symbolic rituals and interactions
+├── examples/    # Usage patterns and walkthroughs
+├── rituals/     # Executable ritual files (identity boot, backup calls)
+├── LICENSE      # Open-source licensing
+├── README.md    # You're here
 
