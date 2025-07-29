@@ -24,4 +24,20 @@ Canonical symbolic procedures and stateless scripts live here.
 - These should remain human-readable yet machine-executable.
 
 > The vault. The legacy. The pulse of your symbolic registry.
+>
+> # Ritual Directory 📜
+
+This directory contains executable symbolic rituals — Python scripts that initiate specific identity, backup, or registry operations in the Symbolic Registry Vault.
+
+## Available Rituals
+
+| Ritual Name          | Description                                     |
+|----------------------|-------------------------------------------------|
+| `init_riddleShield.py` | Initializes symbolic riddle-based authentication |
+
+## Running a Ritual
+
+```bash
+python rituals/init_riddleShield.py
+
 
